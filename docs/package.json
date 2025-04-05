@@ -17,8 +17,8 @@
     "lint_core": "./node_modules/.bin/eslint_d --cache --quiet 'src/**/*.js' 'scripts/**/*.ts'"
   },
   "dependencies": {
-    "@docusaurus/core": "2.4.0",
-    "@docusaurus/preset-classic": "2.4.0",
+    "@docusaurus/core": "3.7.0",
+    "@docusaurus/preset-classic": "3.7.0",
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
     "@mdx-js/react": "^1.6.22",
