@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@botonic/core": "^0.33.0",
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "emoji-picker-react": "^4.12.0",
     "lodash.merge": "^4.6.2",
     "markdown-it": "^12.3.2",
