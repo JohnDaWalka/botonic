@@ -32,7 +32,7 @@
     "react-textarea-autosize": "^8.5.5",
     "styled-components": "^5.3.11",
     "ua-parser-js": "^1.0.39",
-    "uuid": "^10.0.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.25.9",
