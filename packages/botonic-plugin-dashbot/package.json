@@ -12,10 +12,19 @@
     "prepublishOnly": "npm i && npm run build"
   },
   "dependencies": {
-    "axios": "^1.7.9",
-    "dashbot": "^11.2.5"
+    "@typescript-eslint/parser": "8.59.3",
+    "analytics-node": "3.0.0",
+    "axios": "^1.15.2",
+    "contentful": "11.12.2",
+    "contentful-cli": "4.0.1",
+    "contentful-management": "12.5.0",
+    "dashbot": "^10.3.0",
+    "image-minimizer-webpack-plugin": "5.0.0",
+    "imagemin": "7.0.1",
+    "imagemin-jpegtran": "7.0.0",
+    "localtunnel": "1.8.3",
+    "marked": "18.0.3"
   },
-  "devDependencies": {},
   "keywords": [
     "bot-framework",
     "chatbot",
